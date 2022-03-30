@@ -1,0 +1,207 @@
+Found 480 images belonging to 2 classes.
+Found 120 images belonging to 2 classes.
+------------------------------------------------------------------------
+Training for fold 1 ...
+Epoch 1/14
+120/120 - 129s - loss: 0.5094 - acc: 0.7729 - val_loss: 0.4098 - val_acc: 0.8167
+Epoch 2/14
+120/120 - 106s - loss: 0.3821 - acc: 0.8375 - val_loss: 0.3792 - val_acc: 0.8167
+Epoch 3/14
+120/120 - 101s - loss: 0.3385 - acc: 0.8583 - val_loss: 0.3892 - val_acc: 0.8500
+Epoch 4/14
+120/120 - 106s - loss: 0.3583 - acc: 0.8542 - val_loss: 0.3794 - val_acc: 0.8333
+Epoch 5/14
+120/120 - 99s - loss: 0.2844 - acc: 0.8833 - val_loss: 0.4405 - val_acc: 0.8333
+Epoch 6/14
+120/120 - 107s - loss: 0.3257 - acc: 0.8646 - val_loss: 0.3804 - val_acc: 0.8667
+Epoch 7/14
+120/120 - 103s - loss: 0.2814 - acc: 0.8833 - val_loss: 0.4015 - val_acc: 0.8500
+Epoch 8/14
+120/120 - 103s - loss: 0.2755 - acc: 0.8792 - val_loss: 0.4113 - val_acc: 0.8250
+Epoch 9/14
+120/120 - 102s - loss: 0.2578 - acc: 0.8958 - val_loss: 0.5009 - val_acc: 0.8083
+Epoch 10/14
+120/120 - 99s - loss: 0.2766 - acc: 0.8896 - val_loss: 0.4427 - val_acc: 0.8417
+Epoch 11/14
+120/120 - 103s - loss: 0.2591 - acc: 0.8979 - val_loss: 0.4511 - val_acc: 0.8500
+Epoch 12/14
+120/120 - 100s - loss: 0.2280 - acc: 0.9021 - val_loss: 0.5308 - val_acc: 0.8417
+Epoch 13/14
+120/120 - 100s - loss: 0.2652 - acc: 0.8854 - val_loss: 0.4388 - val_acc: 0.8750
+Epoch 14/14
+120/120 - 101s - loss: 0.2264 - acc: 0.9146 - val_loss: 0.4752 - val_acc: 0.8667
+
+
+8/8 [==============================] - 10s 1s/step - loss: 0.2758 - acc: 0.9250
+Score for fold 1: loss of 0.2757929563522339; acc of 92.5000011920929%
+[[39  1]
+ [ 5 35]]
+Found 480 images belonging to 2 classes.
+Found 120 images belonging to 2 classes.
+------------------------------------------------------------------------
+Training for fold 2 ...
+Epoch 1/14
+120/120 - 102s - loss: 0.4064 - acc: 0.7958 - val_loss: 0.2179 - val_acc: 0.9083
+Epoch 2/14
+120/120 - 99s - loss: 0.2956 - acc: 0.8896 - val_loss: 0.2316 - val_acc: 0.9250
+Epoch 3/14
+120/120 - 100s - loss: 0.3171 - acc: 0.8667 - val_loss: 0.2131 - val_acc: 0.9167
+Epoch 4/14
+120/120 - 101s - loss: 0.2790 - acc: 0.8896 - val_loss: 0.2342 - val_acc: 0.9000
+Epoch 5/14
+120/120 - 100s - loss: 0.2636 - acc: 0.8813 - val_loss: 0.2096 - val_acc: 0.9333
+Epoch 6/14
+120/120 - 100s - loss: 0.2819 - acc: 0.8854 - val_loss: 0.4862 - val_acc: 0.8667
+Epoch 7/14
+120/120 - 100s - loss: 0.2429 - acc: 0.9042 - val_loss: 0.2161 - val_acc: 0.9333
+Epoch 8/14
+120/120 - 100s - loss: 0.2344 - acc: 0.9062 - val_loss: 0.2133 - val_acc: 0.9333
+Epoch 9/14
+120/120 - 100s - loss: 0.2624 - acc: 0.9021 - val_loss: 0.3081 - val_acc: 0.9167
+Epoch 10/14
+120/120 - 105s - loss: 0.2419 - acc: 0.9167 - val_loss: 0.2227 - val_acc: 0.9250
+Epoch 11/14
+120/120 - 107s - loss: 0.2311 - acc: 0.9021 - val_loss: 0.3260 - val_acc: 0.9083
+Epoch 12/14
+120/120 - 102s - loss: 0.2261 - acc: 0.9042 - val_loss: 0.3068 - val_acc: 0.9333
+Epoch 13/14
+120/120 - 101s - loss: 0.2101 - acc: 0.9167 - val_loss: 0.2649 - val_acc: 0.9250
+Epoch 14/14
+120/120 - 101s - loss: 0.2129 - acc: 0.9187 - val_loss: 0.2112 - val_acc: 0.9417
+
+
+8/8 [==============================] - 10s 1s/step - loss: 0.3034 - acc: 0.8875
+Score for fold 2: loss of 0.3033851981163025; acc of 88.7499988079071%
+[[38  2]
+ [ 7 33]]
+Found 480 images belonging to 2 classes.
+Found 120 images belonging to 2 classes.
+------------------------------------------------------------------------
+Training for fold 3 ...
+Epoch 1/14
+120/120 - 103s - loss: 0.3295 - acc: 0.8479 - val_loss: 0.1441 - val_acc: 0.9250
+Epoch 2/14
+120/120 - 101s - loss: 0.2612 - acc: 0.8854 - val_loss: 0.1417 - val_acc: 0.9250
+Epoch 3/14
+120/120 - 102s - loss: 0.2504 - acc: 0.8979 - val_loss: 0.1243 - val_acc: 0.9333
+Epoch 4/14
+120/120 - 102s - loss: 0.2302 - acc: 0.9125 - val_loss: 0.1995 - val_acc: 0.9250
+Epoch 5/14
+120/120 - 99s - loss: 0.2328 - acc: 0.9104 - val_loss: 0.1221 - val_acc: 0.9500
+Epoch 6/14
+120/120 - 99s - loss: 0.2175 - acc: 0.9125 - val_loss: 0.2853 - val_acc: 0.9083
+Epoch 7/14
+120/120 - 100s - loss: 0.2206 - acc: 0.9083 - val_loss: 0.1067 - val_acc: 0.9500
+Epoch 8/14
+120/120 - 100s - loss: 0.2128 - acc: 0.9146 - val_loss: 0.1193 - val_acc: 0.9500
+Epoch 9/14
+120/120 - 101s - loss: 0.2268 - acc: 0.9083 - val_loss: 0.2676 - val_acc: 0.9250
+Epoch 10/14
+120/120 - 105s - loss: 0.2005 - acc: 0.9125 - val_loss: 0.1617 - val_acc: 0.9333
+Epoch 11/14
+120/120 - 115s - loss: 0.1851 - acc: 0.9250 - val_loss: 0.1589 - val_acc: 0.9333
+Epoch 12/14
+120/120 - 105s - loss: 0.2001 - acc: 0.9292 - val_loss: 0.1391 - val_acc: 0.9500
+Epoch 13/14
+120/120 - 103s - loss: 0.2007 - acc: 0.9167 - val_loss: 0.1400 - val_acc: 0.9417
+Epoch 14/14
+120/120 - 100s - loss: 0.2184 - acc: 0.9250 - val_loss: 0.1679 - val_acc: 0.9500
+
+
+8/8 [==============================] - 10s 1s/step - loss: 0.2875 - acc: 0.8750
+Score for fold 3: loss of 0.28745347261428833; acc of 87.5%
+[[35  5]
+ [ 5 35]]
+Found 480 images belonging to 2 classes.
+Found 120 images belonging to 2 classes.
+------------------------------------------------------------------------
+Training for fold 4 ...
+Epoch 1/14
+120/120 - 102s - loss: 0.2795 - acc: 0.8813 - val_loss: 0.1550 - val_acc: 0.9667
+Epoch 2/14
+120/120 - 99s - loss: 0.2431 - acc: 0.9062 - val_loss: 0.2020 - val_acc: 0.9333
+Epoch 3/14
+120/120 - 101s - loss: 0.2270 - acc: 0.9021 - val_loss: 0.2585 - val_acc: 0.9417
+Epoch 4/14
+120/120 - 100s - loss: 0.1985 - acc: 0.9271 - val_loss: 0.2320 - val_acc: 0.9250
+Epoch 5/14
+120/120 - 100s - loss: 0.2159 - acc: 0.9125 - val_loss: 0.2647 - val_acc: 0.9250
+Epoch 6/14
+120/120 - 100s - loss: 0.1734 - acc: 0.9396 - val_loss: 0.3149 - val_acc: 0.8917
+Epoch 7/14
+120/120 - 101s - loss: 0.2083 - acc: 0.9167 - val_loss: 0.3016 - val_acc: 0.9250
+Epoch 8/14
+120/120 - 100s - loss: 0.1905 - acc: 0.9104 - val_loss: 0.2608 - val_acc: 0.9250
+Epoch 9/14
+120/120 - 100s - loss: 0.2096 - acc: 0.9187 - val_loss: 0.3165 - val_acc: 0.9167
+Epoch 10/14
+120/120 - 100s - loss: 0.1723 - acc: 0.9312 - val_loss: 0.4062 - val_acc: 0.9167
+Epoch 11/14
+120/120 - 100s - loss: 0.1721 - acc: 0.9438 - val_loss: 0.3513 - val_acc: 0.9083
+Epoch 12/14
+120/120 - 100s - loss: 0.1876 - acc: 0.9271 - val_loss: 0.5761 - val_acc: 0.9000
+Epoch 13/14
+120/120 - 100s - loss: 0.1659 - acc: 0.9375 - val_loss: 0.3190 - val_acc: 0.9250
+Epoch 14/14
+120/120 - 100s - loss: 0.1617 - acc: 0.9521 - val_loss: 0.3787 - val_acc: 0.9167
+
+
+8/8 [==============================] - 10s 1s/step - loss: 0.5551 - acc: 0.8875
+Score for fold 4: loss of 0.5550511479377747; acc of 88.7499988079071%
+[[39  1]
+ [ 8 32]]
+Found 480 images belonging to 2 classes.
+Found 120 images belonging to 2 classes.
+------------------------------------------------------------------------
+Training for fold 5 ...
+Epoch 1/14
+120/120 - 104s - loss: 0.3006 - acc: 0.8750 - val_loss: 0.2501 - val_acc: 0.9083
+Epoch 2/14
+120/120 - 100s - loss: 0.1837 - acc: 0.9333 - val_loss: 0.1904 - val_acc: 0.9333
+Epoch 3/14
+120/120 - 100s - loss: 0.2120 - acc: 0.9167 - val_loss: 0.2226 - val_acc: 0.9417
+Epoch 4/14
+120/120 - 101s - loss: 0.1649 - acc: 0.9438 - val_loss: 0.3797 - val_acc: 0.9083
+Epoch 5/14
+120/120 - 101s - loss: 0.1888 - acc: 0.9292 - val_loss: 0.1621 - val_acc: 0.9583
+Epoch 6/14
+120/120 - 100s - loss: 0.2019 - acc: 0.9292 - val_loss: 0.1792 - val_acc: 0.9333
+Epoch 7/14
+120/120 - 102s - loss: 0.1729 - acc: 0.9354 - val_loss: 0.6328 - val_acc: 0.8917
+Epoch 8/14
+120/120 - 101s - loss: 0.1609 - acc: 0.9458 - val_loss: 0.3792 - val_acc: 0.9167
+Epoch 9/14
+120/120 - 101s - loss: 0.1535 - acc: 0.9479 - val_loss: 0.7973 - val_acc: 0.8583
+Epoch 10/14
+120/120 - 103s - loss: 0.1457 - acc: 0.9417 - val_loss: 0.1967 - val_acc: 0.9417
+Epoch 11/14
+120/120 - 101s - loss: 0.1665 - acc: 0.9396 - val_loss: 0.2239 - val_acc: 0.9500
+Epoch 12/14
+120/120 - 100s - loss: 0.1406 - acc: 0.9542 - val_loss: 0.2005 - val_acc: 0.9500
+Epoch 13/14
+120/120 - 100s - loss: 0.1497 - acc: 0.9521 - val_loss: 0.2492 - val_acc: 0.9583
+Epoch 14/14
+120/120 - 101s - loss: 0.1098 - acc: 0.9625 - val_loss: 0.3751 - val_acc: 0.9333
+
+
+8/8 [==============================] - 10s 1s/step - loss: 0.4310 - acc: 0.8875
+Score for fold 5: loss of 0.43103355169296265; acc of 88.7499988079071%
+[[35  5]
+ [ 4 36]]
+------------------------------------------------------------------------
+Score per fold
+------------------------------------------------------------------------
+> Fold 1 - Loss: 0.2757929563522339 - Accuracy: 92.5000011920929%
+------------------------------------------------------------------------
+> Fold 2 - Loss: 0.3033851981163025 - Accuracy: 88.7499988079071%
+------------------------------------------------------------------------
+> Fold 3 - Loss: 0.28745347261428833 - Accuracy: 87.5%
+------------------------------------------------------------------------
+> Fold 4 - Loss: 0.5550511479377747 - Accuracy: 88.7499988079071%
+------------------------------------------------------------------------
+> Fold 5 - Loss: 0.43103355169296265 - Accuracy: 88.7499988079071%
+------------------------------------------------------------------------
+Average scores for all folds:
+> Accuracy: 89.24999952316284 (+- 1.6955831636865857)
+> Loss: 0.3705432653427124
+------------------------------------------------------------------------
